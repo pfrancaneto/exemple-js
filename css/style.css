@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #c4c4c4;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.menu {
+  text-align: center;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: center;
+}
+
+.menu ul li {
+  list-style: none;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  margin: 0 30px;
+  
+}
